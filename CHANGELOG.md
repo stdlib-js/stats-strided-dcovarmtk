@@ -1,0 +1,53 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2025-07-10)
+
+<section class="features">
+
+### Features
+
+-   [`95608b2`](https://github.com/stdlib-js/stdlib/commit/95608b2ebabf95ec76675a09f16d026ebb01b381) - add `stats/strided/dcovarmtk`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7cd152b`](https://github.com/stdlib-js/stdlib/commit/7cd152ba9f730665bac86f9c488374c5c0c2f2c7) - **docs:** fix return values and parameters _(by Philipp Burckhardt)_
+-   [`70c0a74`](https://github.com/stdlib-js/stdlib/commit/70c0a74d7298a99ac9f59c4fb4db78acec57c404) - **docs:** update copy _(by Athan Reines)_
+-   [`dd3c840`](https://github.com/stdlib-js/stdlib/commit/dd3c84098321191a425401880f073b5de4159ff5) - **docs:** update copy _(by Athan Reines)_
+-   [`e3ec747`](https://github.com/stdlib-js/stdlib/commit/e3ec7479e52d2427f8b6f3decb07125e4286178e) - **bench:** fix call signature _(by Athan Reines)_
+-   [`95608b2`](https://github.com/stdlib-js/stdlib/commit/95608b2ebabf95ec76675a09f16d026ebb01b381) - **feat:** add `stats/strided/dcovarmtk` _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
