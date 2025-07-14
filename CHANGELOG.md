@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-10)
+## Unreleased (2025-07-14)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`dddf657`](https://github.com/stdlib-js/stdlib/commit/dddf657be1a00531786ca624e64a7158edce9eea) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`7cd152b`](https://github.com/stdlib-js/stdlib/commit/7cd152ba9f730665bac86f9c488374c5c0c2f2c7) - **docs:** fix return values and parameters _(by Philipp Burckhardt)_
 -   [`70c0a74`](https://github.com/stdlib-js/stdlib/commit/70c0a74d7298a99ac9f59c4fb4db78acec57c404) - **docs:** update copy _(by Athan Reines)_
 -   [`dd3c840`](https://github.com/stdlib-js/stdlib/commit/dd3c84098321191a425401880f073b5de4159ff5) - **docs:** update copy _(by Athan Reines)_
