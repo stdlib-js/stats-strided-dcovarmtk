@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-14)
+## Unreleased (2025-07-16)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8bb4f88`](https://github.com/stdlib-js/stdlib/commit/8bb4f882f7e0c2c7f2b105b06794352667f6ff68) - **chore:** minor cleanup in `stats/strided/dcovarmtk` [(#7651)](https://github.com/stdlib-js/stdlib/pull/7651) _(by Gururaj Gurram)_
 -   [`dddf657`](https://github.com/stdlib-js/stdlib/commit/dddf657be1a00531786ca624e64a7158edce9eea) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`7cd152b`](https://github.com/stdlib-js/stdlib/commit/7cd152ba9f730665bac86f9c488374c5c0c2f2c7) - **docs:** fix return values and parameters _(by Philipp Burckhardt)_
 -   [`70c0a74`](https://github.com/stdlib-js/stdlib/commit/70c0a74d7298a99ac9f59c4fb4db78acec57c404) - **docs:** update copy _(by Athan Reines)_
@@ -39,9 +40,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 
 </section>
