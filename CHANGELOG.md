@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9392f2e`](https://github.com/stdlib-js/stdlib/commit/9392f2e49bb32be6d4bcd79af802b10439e2f3c0) - **docs:** fix return values _(by Athan Reines)_
 -   [`8bb4f88`](https://github.com/stdlib-js/stdlib/commit/8bb4f882f7e0c2c7f2b105b06794352667f6ff68) - **chore:** minor cleanup in `stats/strided/dcovarmtk` [(#7651)](https://github.com/stdlib-js/stdlib/pull/7651) _(by Gururaj Gurram)_
 -   [`dddf657`](https://github.com/stdlib-js/stdlib/commit/dddf657be1a00531786ca624e64a7158edce9eea) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`7cd152b`](https://github.com/stdlib-js/stdlib/commit/7cd152ba9f730665bac86f9c488374c5c0c2f2c7) - **docs:** fix return values and parameters _(by Philipp Burckhardt)_
