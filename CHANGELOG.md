@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a77d03a`](https://github.com/stdlib-js/stdlib/commit/a77d03ae128ff08d5404758c075fba5ac594ca0b) - **bench:** use string interpolation in `stats/strided/dcovarmtk` [(#10412)](https://github.com/stdlib-js/stdlib/pull/10412) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-07)
