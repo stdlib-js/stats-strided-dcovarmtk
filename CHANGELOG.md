@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-16)
+## Unreleased (2026-04-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d04c53f`](https://github.com/stdlib-js/stdlib/commit/d04c53f65e93ee0ab74cf8800111ce05919ac4e4) - **bench:** refactor to use dynamic memory allocation in `stats/strided/dcovarmtk` [(#11667)](https://github.com/stdlib-js/stdlib/pull/11667) _(by Uday Kakade)_
 -   [`a77d03a`](https://github.com/stdlib-js/stdlib/commit/a77d03ae128ff08d5404758c075fba5ac594ca0b) - **bench:** use string interpolation in `stats/strided/dcovarmtk` [(#10412)](https://github.com/stdlib-js/stdlib/pull/10412) _(by Om-A-osc)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Om-A-osc
+-   Uday Kakade
 
 </section>
 
